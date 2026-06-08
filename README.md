@@ -1,11 +1,11 @@
-# Temperature Estimation Using Linear Interpolation 🌡️
+# Temperature Estimation Using Linear Interpolation 
 
 This project demonstrates the application of numerical methods to solve real-world problems. It implements a **Linear Interpolation Model** in Python to estimate unknown air temperatures between specific known time intervals.
 
 ## Project Overview & Poster
 Below is the comprehensive project infographic outlining the problem description, mathematical model, step-by-step calculations, and analytical findings.
 
-![Project Poster](poster.jpg)
+![Project Poster](poster.png)
 
 ## Tech Stack & Tools
 - **Language:** Python 3
