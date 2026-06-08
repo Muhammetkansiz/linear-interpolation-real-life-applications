@@ -21,3 +21,5 @@ While this specific implementation estimates **air temperature**, the developed 
 The algorithm converts time into decimal formats (e.g., 11:15 becomes 11.25) and applies the standard linear interpolation formula:
 y = y1 + ((x - x1) * (y2 - y1)) / (x2 - x1)
 Given the data points at 10:00 (18°C) and 12:00 (24°C), the model successfully estimates the temperature at **11:15** to be **21.75 °C**.
+
+*(Note: The project infographic was generated using AI.)*
